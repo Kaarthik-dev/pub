@@ -1,1 +1,4 @@
-Jenkins: It is an open-source automation server widely used in software development for implementing continuous integration (CI) and continuous delivery (CD) workflows. It automates various stages of the software development lifecycle, including building, testing, and deploying applications.
+Jenkins: It is an open-source automation server widely used in software development for 
+implementing continuous integration (CI) and continuous delivery (CD) workflows. It automates
+various stages of the software development lifecycle, including building, testing
+and deploying applications.
